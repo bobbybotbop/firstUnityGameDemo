@@ -18,7 +18,7 @@ WASD to move, left and right movement animations
 
 ![image](https://user-images.githubusercontent.com/76022647/147843708-7642f219-2106-43c1-9e6f-2e0d86cda639.png) ![image](https://user-images.githubusercontent.com/76022647/147843715-098c127a-56f4-4080-adae-7a8f3103679a.png)
 
-jumping animations
+jumping animations (affected by gravity)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
