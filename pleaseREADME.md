@@ -1,7 +1,7 @@
 # firstUnityGameDemo
 download all files and run the .exe file to run the game :)
 
-(all assets are free in the unity asset store, everything else is coded by me!)
+(all assets are free in the unity asset store, everything else is coded in c# by me!)
 
 ------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/76022647/147843670-49cb2748-b432-42b9-a787-2e7a6b5f5e72.png)
